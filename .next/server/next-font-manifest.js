@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/gurielamp/Code/risolesomahgembul/src/app/layout\":[\"static/media/9e82d62334b205f4-s.p.woff2\",\"static/media/eafabf029ad39a43-s.p.woff2\",\"static/media/b957ea75a84b6ea7-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
